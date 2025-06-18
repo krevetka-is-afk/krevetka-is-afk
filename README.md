@@ -1,4 +1,4 @@
-### [Резюме](https://github.com/krevetka-is-afk/krevetka-is-afk/blob/main/Резюме\.pdf)  
+### [Резюме](https://github.com/krevetka-is-afk/krevetka-is-afk/blob/main/Рез.pdf)  
 
 ---
 
