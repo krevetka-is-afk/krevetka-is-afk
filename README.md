@@ -18,7 +18,7 @@
 - [Система Анализа Текста](https://github.com/krevetka-is-afk/SD_CW_2)
 - [Система управления зоопарком](https://github.com/krevetka-is-afk/WebAppZoo)
 - [Консольное ERP приложение покрытое тестами](https://github.com/krevetka-is-afk/ERPSysZoo)
-- [проект телеграмм бот для работы с .CSV и .JSON файлами](https://github.com/krevetka-is-afk/Csharp/tree/main)
+- [Проект телеграмм бот для работы с .CSV и .JSON файлами](https://github.com/krevetka-is-afk/Csharp/tree/main)
 
 
 ---
