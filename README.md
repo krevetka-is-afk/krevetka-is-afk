@@ -9,10 +9,6 @@
 - [Груповая динамика](https://github.com/krevetka-is-afk/2-course/tree/main/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0)
 ---
 
-#### Plug-in-for-Obsidian
-- [Plugin to replace specific latex formatting](https://github.com/krevetka-is-afk/Plug-in-for-Obsidian)
----
-
 #### Csharp
 - [Микросервисное приложение интернет-магазина с асинхронной обработкой заказов и платежей через RabbitMQ](https://github.com/krevetka-is-afk/AsyncShop/tree/main)
 - [Система Анализа Текста](https://github.com/krevetka-is-afk/SD_CW_2)
@@ -25,6 +21,10 @@
 
 #### Swift
 - [iOS приложение, которое позволяет создавать и управлять вашими желаниями](https://github.com/krevetka-is-afk/Wish-maker-App-2)
+---
+
+#### Plug-in-for-Obsidian
+- [Plugin to replace specific latex formatting](https://github.com/krevetka-is-afk/Plug-in-for-Obsidian)
 ---
 
 #### 📈 &nbsp;GitHub Stats
