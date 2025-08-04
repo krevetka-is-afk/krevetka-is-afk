@@ -13,7 +13,7 @@
 - [Микросервисное приложение интернет-магазина с асинхронной обработкой заказов и платежей через RabbitMQ](https://github.com/krevetka-is-afk/AsyncShop/tree/main)
 - [Система Анализа Текста](https://github.com/krevetka-is-afk/SD_CW_2)
 - [Система управления зоопарком](https://github.com/krevetka-is-afk/WebAppZoo)
-- [Консольное ERP приложение покрытое тестами](https://github.com/krevetka-is-afk/ERPSysZoo)
+- [Консольное ERP приложение, покрытое тестами](https://github.com/krevetka-is-afk/ERPSysZoo)
 - [Проект телеграмм бот для работы с .CSV и .JSON файлами](https://github.com/krevetka-is-afk/Csharp/tree/main)
 
 
