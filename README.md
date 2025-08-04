@@ -1,5 +1,5 @@
 
-#### [HSE AI HACK git hub our project](https://github.com/isogonalconjugate/hse-ai-hackaton)
+#### [HSE AI HACK git hub our project](https://github.com/isogonalconjugate/hse-ai-hackaton) private project
 Заняли 12 место на хакатоне от Высшей Школы Экономики.
 
 ---
@@ -9,7 +9,7 @@
 - [Груповая динамика](https://github.com/krevetka-is-afk/2-course/tree/main/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0)
 ---
 
-#### Csharp
+#### Csharp public projects
 - [Микросервисное приложение интернет-магазина с асинхронной обработкой заказов и платежей через RabbitMQ](https://github.com/krevetka-is-afk/AsyncShop/tree/main)
 - [Система Анализа Текста](https://github.com/krevetka-is-afk/SD_CW_2)
 - [Система управления зоопарком](https://github.com/krevetka-is-afk/WebAppZoo)
