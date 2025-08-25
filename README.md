@@ -1,6 +1,5 @@
 
 #### [HSE AI HACK git hub our project](https://github.com/isogonalconjugate/hse-ai-hackaton) private project
-Заняли 12 место на хакатоне от Высшей Школы Экономики.
 
 ---
 #### [2-course](https://github.com/krevetka-is-afk/2-course)
