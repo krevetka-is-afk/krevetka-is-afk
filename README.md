@@ -27,4 +27,11 @@
 ---
 
 #### 📈 &nbsp;GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krevetka-is-afk&layout=compact&theme=default)
+<p>
+<a href="https://github.com/krevetka-is-afk">
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krevetka-is-afk&layout=compact&langs_count=8&theme=light"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krevetka-is-afk&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+   
+</a>
+</p>
