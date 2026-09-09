@@ -1,8 +1,8 @@
 # Most resent projects
 
-### [Agent Builder — UI-конструктор агентов с инструментами для Yandex AI Studio.](https://github.com/krevetka-is-afk/llm-agent-for-ai-studio)
+### [Agent Builder – UI-конструктор агентов с инструментами для Yandex AI Studio.](https://github.com/krevetka-is-afk/llm-agent-for-ai-studio)
 
-### [Digital Student Assistant - платформа для подбора и сопровождения студенческих проектов.](https://github.com/krevetka-is-afk/Digital-Student-Assistant)
+### [Digital Student Assistant – платформа для подбора и сопровождения студенческих проектов.](https://github.com/krevetka-is-afk/Digital-Student-Assistant)
 
 ### [RAG chat-bot for students – Чат-бот на основе RAG-архитектуры для ответов на вопросы студентов и преподавателей.](https://github.com/krevetka-is-afk/Intelligent-Assistant-for-Educational-Institutions)
 
